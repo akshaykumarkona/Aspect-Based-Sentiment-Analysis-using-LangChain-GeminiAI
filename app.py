@@ -1,7 +1,6 @@
 import streamlit as st
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.prompts import ChatPromptTemplate
-from gemini_key import api_key
 import json
 import os
 
