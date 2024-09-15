@@ -5,7 +5,11 @@ from gemini_key import api_key
 import json
 import os
 
-os.environ["GOOGLE_API_KEY"] = api_key
+headers={
+        "authorization": st.secrets["api_key"],
+        "content-type": "application/json"
+    }
+os.environ["GOOGLE_API_KEY"]=st.secrets["api_key"]
 
 gemini_llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0.3, max_output_tokens=300)
 
