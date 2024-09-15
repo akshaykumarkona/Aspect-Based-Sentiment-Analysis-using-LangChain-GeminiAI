@@ -24,6 +24,4 @@ This project is all about performing Aspect-Based Sentiment Analysis (ABSA) on u
 3. **Click "Analyze"** to see the aspect-based sentiment analysis results on the review.
 
 ## Project Image
-![Screenshot](/absa/ProjectImage.png)
-
-
+!['Screenshot']([/absa/ProjectImage.png](/ProjectImage.png))
