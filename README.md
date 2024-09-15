@@ -14,8 +14,7 @@ This project is all about performing Aspect-Based Sentiment Analysis (ABSA) on u
 - `Python`
 - `Streamlit`
 - `Langchain Google Generative AI`
-- `gemini_key` module for API key management
-
+- `gemini_key` module for API key management=
 
 ## Usage
 
@@ -24,4 +23,4 @@ This project is all about performing Aspect-Based Sentiment Analysis (ABSA) on u
 3. **Click "Analyze"** to see the aspect-based sentiment analysis results on the review.
 
 ## Project Image
-!['Screenshot']([/absa/ProjectImage.png](/ProjectImage.png))
+![Screenshot](https://github.com/akshaykumarkona/Aspect-Based-Sentiment-Analysis/blob/main/ProjectImage.png)
