@@ -26,7 +26,7 @@ This project is all about performing Aspect-Based Sentiment Analysis (ABSA) on u
 
 1. Open this Streamlit app in your web browser.
 2. Select a predefined review from the dropdown or enter your own review in the text area.
-3. **Click "Analyze"** to see the aspect-based sentiment analysis results on the review.
+3. Click **"Analyze"** to see the aspect-based sentiment analysis results on the review.
 
 ## Project Image
 ![Screenshot](https://github.com/akshaykumarkona/Aspect-Based-Sentiment-Analysis/blob/main/ProjectImage.png)
