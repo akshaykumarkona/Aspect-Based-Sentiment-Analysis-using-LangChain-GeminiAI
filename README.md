@@ -2,6 +2,11 @@
 
 This project is all about performing Aspect-Based Sentiment Analysis (ABSA) on user reviews using the `Google Gemini` and `Langchain`. This app allows users to analyze predefined reviews or enter their own review, providing insights into specific aspects and their corresponding sentiments.
 
+## Project Links
+
+- ***[Live Streamlit App](https://aspect-based-sentiment-analysis-mzqqzt2vot8m68qrddggnv.streamlit.app/)***
+- ***[GitHub Repository](https://github.com/akshaykumarkona/Aspect-Based-Sentiment-Analysis.git)***
+
 ## Features
 
 - **Aspect-Based Sentiment Analysis:** Identifies aspects and their sentiments in user reviews.
