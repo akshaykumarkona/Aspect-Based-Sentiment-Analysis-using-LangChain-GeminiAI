@@ -1,6 +1,6 @@
 # Aspect-Based Sentiment Analysis using Google Gemini
 
-This project is all about performing Aspect-Based Sentiment Analysis (ABSA) on user reviews using the `Google Gemini` and `Langchain`. This app allows users to analyze predefined reviews or enter their own review, providing insights into specific aspects and their corresponding sentiments.
+This project is all about performing Aspect-Based Sentiment Analysis (ABSA) on user reviews using the `Google Gemini` and `LangChain`. This app allows users to analyze predefined reviews or enter their own review, providing insights into specific aspects and their corresponding sentiments.
 
 ## Project Links
 
@@ -18,7 +18,8 @@ This project is all about performing Aspect-Based Sentiment Analysis (ABSA) on u
 
 - `Python`
 - `Streamlit`
-- `Langchain Google Generative AI`
+- `LangChain`
+- `LangChain Google Generative AI`
 - `gemini_key` module for API key management=
 
 ## Usage
