@@ -1,4 +1,4 @@
-# Aspect-Based Sentiment Analysis using Google Gemini
+# Aspect-Based Sentiment Analysis using LangChain & Gemini
 
 This project is all about performing Aspect-Based Sentiment Analysis (ABSA) on user reviews using the `Google Gemini` and `LangChain`. This app allows users to analyze predefined reviews or enter their own review, providing insights into specific aspects and their corresponding sentiments.
 
