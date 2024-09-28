@@ -4,7 +4,7 @@ This project is all about performing Aspect-Based Sentiment Analysis (ABSA) on u
 
 ## Project Links
 
-- ***[Live Streamlit App](https://aspect-based-sentiment-analysis-mzqqzt2vot8m68qrddggnv.streamlit.app/)***
+- ***[Live Streamlit App](https://aspect-based-sentiment-analysis-langchain-geminiai.streamlit.app/)***
 - ***[GitHub Repository](https://github.com/akshaykumarkona/Aspect-Based-Sentiment-Analysis.git)***
 
 ## Features
