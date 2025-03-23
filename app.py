@@ -10,7 +10,9 @@ headers={
     }
 os.environ["GOOGLE_API_KEY"]=st.secrets["api_key"]
 
-gemini_llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0.3, max_output_tokens=300)
+gemini_llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash", 
+                                        temperature=0.3, 
+                                        max_output_tokens=300)
 
 system_prompt = """
 You are a helpful AI Assistant which helps humans to do ABSA (Aspect Based Sentiment Analysis) on a user review.
