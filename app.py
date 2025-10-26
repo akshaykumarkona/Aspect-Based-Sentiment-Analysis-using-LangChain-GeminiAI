@@ -1,6 +1,7 @@
 import streamlit as st
 from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain.prompts import ChatPromptTemplate
+# from langchain.prompts import ChatPromptTemplate
+from langchain_core.prompts import ChatPromptTemplate
 import json
 import os
 
@@ -78,3 +79,4 @@ if st.button("Analyze"):
             st.write(f"{aspect}: {sentiment}")
     except Exception as e:
         st.error(f"Error parsing the response: {e}")
+
