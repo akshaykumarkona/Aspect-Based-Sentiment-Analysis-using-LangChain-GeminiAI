@@ -11,7 +11,7 @@ headers={
     }
 os.environ["GOOGLE_API_KEY"]=st.secrets["api_key"]
 
-gemini_llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash", 
+gemini_llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", 
                                         temperature=0.3, 
                                         max_output_tokens=300)
 
@@ -79,4 +79,5 @@ if st.button("Analyze"):
             st.write(f"{aspect}: {sentiment}")
     except Exception as e:
         st.error(f"Error parsing the response: {e}")
+
 
